@@ -1,0 +1,19 @@
+h1{
+    color: aquamarine;
+}
+p{
+    color: blue;
+}
+h2{
+    color: brown;
+}
+button{
+    color: rgb(20, 23, 112);
+    background-color: rgb(212, 0, 255);
+}
+body{
+    background-color:rgba(196, 211, 23, 0.885);
+}
+*style1{
+    text-align: center;
+}
